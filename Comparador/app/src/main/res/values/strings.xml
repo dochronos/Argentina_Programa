@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+
+    <string name="btn_name">Comparar</string>
+    val string1 = <string name="stg_1">Escribe una palabra</string>
+    val string2 = <string name="stg_2">Escribe una palabra</string>
+    val answer = <string name="result">Resultado</string>
+    <string name="btn_clear">Borrar Todo</string>
+</resources>
